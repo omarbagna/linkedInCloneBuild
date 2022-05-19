@@ -1,0 +1,1 @@
+export { default as linkedIn } from './linkedin.png';
